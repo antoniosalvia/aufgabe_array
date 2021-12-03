@@ -7,7 +7,7 @@ let film = [
 ];
 
 
-film[0][0]= prompt('Geben Sie Ihren ersten Filmtitel ein:');
+film[0][0] = prompt('Geben Sie Ihren ersten Filmtitel ein:');
 film[0][1] = prompt('Geben Sie das Veröffentlichungsjahr des ersten Filmes ein:');
 
 film[1][0] = prompt('Geben Sie Ihren zweiten Filmtitel ein:');
